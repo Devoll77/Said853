@@ -1,19 +1,20 @@
-- 👋 Hi, I’m @Said853
-- 👀 I’m interested in ... development apps 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-مهتم ب ...
-- 🌱 أنا أتعلم حاليًا ...
-- 💞️ أتطلع للتعاون في ...
-- 📫 كيف تصل إلي ...
-- 😄 الضمائر : ...
-- ⚡حقيقة ممتعة: ...
+# 👋 Hi there, I’m @Said853
 
-<!---
-Said853/Said853 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 👀 About Me
+I am an aspiring app developer with a passion for creating innovative and user-friendly applications.
 
+## 🌱 Currently Learning
+- **Programming Languages**: JavaScript, Python
+- **Frameworks**: React, Node.js
+
+## 💞️ Collaboration
+I am looking to collaborate on open-source projects, particularly in the fields of mobile and web development. I'm interested in contributing to projects that aim to solve real-world problems.
+
+## 📫 Get in Touch
+Feel free to reach out to me via [email](mailto:your_email@example.com) or connect with me on LinkedIn [your_linkedin_profile].
+
+## 😄 Pronouns
+He/Him
+
+## ⚡ Fun Fact
+I enjoy exploring new technologies and coding challenges, and I love hiking in my free time.
